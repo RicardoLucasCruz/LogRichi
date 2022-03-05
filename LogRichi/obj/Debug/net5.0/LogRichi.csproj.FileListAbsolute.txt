@@ -1,0 +1,11 @@
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\bin\Debug\net5.0\LogRichi.deps.json
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\bin\Debug\net5.0\LogRichi.dll
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\bin\Debug\net5.0\ref\LogRichi.dll
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\bin\Debug\net5.0\LogRichi.pdb
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.dll
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\ref\LogRichi.dll
+C:\Users\Miguel\Desktop\RichiLucas\LogRichi\LogRichi\obj\Debug\net5.0\LogRichi.pdb
